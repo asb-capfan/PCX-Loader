@@ -1,5 +1,5 @@
 Changes
-Loader.pm
+lib/PCX/Loader.pm
 Makefile.PL
 MANIFEST
-test.pl
+t/00-load-module.t
